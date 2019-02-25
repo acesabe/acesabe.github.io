@@ -13,3 +13,12 @@ Yeah seems not got round to it yet so until then here is <a href="http://wpcom.a
 <a/>
 <a/>
 </body>
+  
+          <section id="downloads">
+          {% if site.show_downloads %}
+            <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
+            <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
+          {% endif %}
+          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+        </section>
+    

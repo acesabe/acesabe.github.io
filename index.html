@@ -1,11 +1,13 @@
 ---
 layout: default
 ---
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
 <body>      
 <div class="container">
 <h1> A simple Jekyll powered, Github.io hosted static web site</h1>
 
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        <h3>{{ site.description | default: site.github.project_tagline }}</h3>
        </div>
 
 <a>ok, so I always put that! Perhaps this time you'll get lucky and there will be a nice list of useful stuff below this blurb!
@@ -16,7 +18,7 @@ Yeah seems not got round to it yet so until then here is <a href="http://wpcom.a
 
   
  
-      <div class="container">
+      <div class="footer">
         <section id="github-link">
   <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </section>
@@ -25,5 +27,5 @@ Yeah seems not got round to it yet so until then here is <a href="http://wpcom.a
   
  </body>
           
- 
+        </html>
     

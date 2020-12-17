@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Internet outage > 4g Hotspot!
 
 Scenario:

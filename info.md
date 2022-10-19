@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## [.](https://acesabe.net)
+[Home](https://acesabe.net)
 
 ## About me
 

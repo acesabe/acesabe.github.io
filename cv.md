@@ -1,6 +1,6 @@
 # Curriculum Vitae - ANDREW SABEL
 ##	Granada Province, Spain
-![Send me a message to](/AGaddy.png)
+![Send me a message to](/AGaddyb.png)
 
 _With a wide range of technical skills & experience spanning mechanical, electrical/electronic/micro to IT systems, and broad IT systems knowledge with an analytical approach and great problem solving skills I can get problems solved! I’m hungry to learn new systems & technologies whilst working under pressure, delivering great solutions and achieving excellent results. With attention to micro detail whilst maintaining a managerial overview I’m always pushing hard to ensure success. An outstanding communicator at all levels, have proven delivery and instructional skills, am a team player with a drive to succeed with the team not just as an individual._
 

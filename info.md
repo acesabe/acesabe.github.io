@@ -3,6 +3,6 @@
 
 Just a couple of links to get some background on me:
 
-http://linkedin.acesabe.net  
+https://linkedin.acesabe.net  
 
-http://cv.acesabe.net
+https://acesabe.net/cv.html

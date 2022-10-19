@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## [.](https://acesabe.net)
+##     
 
 # A simple Jekyll powered, Github.io hosted static site
 

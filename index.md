@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-##     
+     
 
 # A simple Jekyll powered, Github.io hosted static site
 

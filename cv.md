@@ -45,7 +45,7 @@ With many years experience in IT including system/network administration, built 
 
 06.2022 - Current 
 
-IT Technician at Talent World Group responsible for ongoing IT system administration, maintenance and support, supporting our Talents with technical issues, VM and firewall administration, providing training and support to our systems users, testing and QA on inhouse apps and services. 
+IT Technician at TalentWorldGroup responsible for ongoing IT system administration, maintenance and support, supporting our Talents with technical issues, VM and firewall administration, providing training and support to our systems users, testing and QA on inhouse apps and services. 
 
 06.2018-05.2021 
 
@@ -132,5 +132,5 @@ References available on request.
 
 
 
-Updated: 10.2022
+Updated: 12.2022
 

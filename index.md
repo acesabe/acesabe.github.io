@@ -2,10 +2,10 @@
 layout: default
 ---
      
-#
+# 
 
 
-#
+# 
 # A simple Jekyll powered, Github.io hosted static site
 
 ## nothing more....nothing less - just a quick and ~~dirty~~ clean web site..
